@@ -1,0 +1,11 @@
+# Java compiled files
+*.class
+out/
+build/
+
+# IDE files
+.idea/
+.vscode/
+
+# Temporary files
+.Rhistory
